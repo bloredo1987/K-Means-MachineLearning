@@ -3,11 +3,9 @@
 In this challenge, I will be using my knowledge of machine learning, Python, and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 
 
-Question: After visually analyzing the cluster analysis results, what is the impact of using fewer features to cluster the data using K-Means?
+- Question: After visually analyzing the cluster analysis results, what is the impact of using fewer features to cluster the data using K-Means?
 
-Answer:
-
-Simplicity and Interpretability: Fewer features lead to simpler models, which are often easier to interpret. This can be valuable for understanding the underlying patterns in the data.
+- Answer: Simplicity and Interpretability: Fewer features lead to simpler models, which are often easier to interpret. This can be valuable for understanding the underlying patterns in the data.
 
 Reduced Dimensionality: With fewer features, the dimensionality of the data is reduced. This can help in visualization and understanding of the clusters.
 
